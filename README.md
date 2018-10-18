@@ -1,4 +1,4 @@
-Front-end Test Project
+Front-end Developer Test
 ======================
 
 ## Project brief

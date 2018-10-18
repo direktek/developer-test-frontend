@@ -22,7 +22,7 @@ Convert the following designs to HTML/CSS/JS.
 6. *Optional bonus task 1:* Use [responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 
 ## Design
-- See front-end-test-wireframe.psd
+- See [front-end-test-wireframe.psd](front-end-test-wireframe.psd)
 - The font used in the design is Open Sans
 - The following images are used in the design:
   -  https://pixabay.com/en/new-zealand-lake-mountain-landscape-679068/

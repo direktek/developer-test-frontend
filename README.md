@@ -4,14 +4,14 @@ Front-end Developer Test
 ## Project brief
 Convert the following designs to HTML/CSS/JS.
 
-- When you have completed the exercise, zip up your solution and send it back via email
-- Please DO NOT fork this project on Github
-
 ### Thumbnails
 ![Front-end Test Thumbnails Screenshot](front-end-test-thumbs-screenshot.jpg)
 
 ### Overlay
 ![Front-end Test Overlay Screenshot](front-end-test-overlay-screenshot.jpg)
+
+- When you have completed the exercise, zip up your solution and send it back via email
+- Please DO NOT fork this project on Github
 
 ## Requirements
 1. Use HTML5 / CSS
